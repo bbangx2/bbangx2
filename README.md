@@ -45,13 +45,14 @@
 
 **[자동 알약 디스펜서](https://github.com/bbangx2/intel_mini_project_1.git)**
 <br>
-간단한 이미지 처리 알고리즘과 GUI를 구현한 프로젝트입니다.
+STM32, Arduino, RaspberryPi를 이용한 디스펜서 개발 프로젝트
 <br>
 ![STM32](https://img.shields.io/badge/STM32-00366D?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![BSP](https://img.shields.io/badge/BSP-FF9900?style=for-the-badge&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 <br><br>
 
 **[과적 및 적재불량 차량 탐지]([https://github.com/GyeongTae/IoT_SmartHome](https://github.com/bbangx2/MLOps_mini_project.git))**
