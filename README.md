@@ -68,9 +68,12 @@ Intel Geti를 이용한 MLOps 미니 프로젝트 입니다. 적재 불량 차�
 <br>
 사전 학습된 데이터를 이용하여 피부 상태를 추론하여 적절한 화장품을 제공해줍니다.
 <br>
-![Intel Geti](https://img.shields.io/badge/Intel%20Geti-0071C5?style=for-the-badge&logoColor=white)
-![OpenVINO](https://img.shields.io/badge/OpenVINO-660099?style=for-the-badge&logo=intel&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-00366D?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![QtCreator](https://img.shields.io/badge/QtCreator-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 <br><br>
 
 </div>
