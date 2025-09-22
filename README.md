@@ -45,7 +45,7 @@
 
 **[자동 알약 디스펜서](https://github.com/bbangx2/intel_mini_project_1.git)**
 <br>
-STM32, Arduino, RaspberryPi를 이용한 디스펜서 개발 프로젝트
+STM32, Arduino, RaspberryPi를 이용하여 자동으로 알약을 제공해주는 프로젝트 입니다.
 <br>
 ![STM32](https://img.shields.io/badge/STM32-00366D?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
@@ -58,6 +58,15 @@ STM32, Arduino, RaspberryPi를 이용한 디스펜서 개발 프로젝트
 **[과적 및 적재불량 차량 탐지](https://github.com/bbangx2/MLOps_mini_project.git)**
 <br>
 Intel Geti를 이용한 MLOps 미니 프로젝트 입니다. 적재 불량 차량을 학습하여 영상에서 탐지합니다. 
+<br>
+![Intel Geti](https://img.shields.io/badge/Intel%20Geti-0071C5?style=for-the-badge&logoColor=white)
+![OpenVINO](https://img.shields.io/badge/OpenVINO-660099?style=for-the-badge&logo=intel&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=amazonaws&logoColor=white)
+<br><br>
+
+**[피부 개선 디스펜서](https://github.com/tmdduq1023/Intel07_Intelproject_Team3.git)**
+<br>
+사전 학습된 데이터를 이용하여 피부 상태를 추론하여 적절한 화장품을 제공해줍니다.
 <br>
 ![Intel Geti](https://img.shields.io/badge/Intel%20Geti-0071C5?style=for-the-badge&logoColor=white)
 ![OpenVINO](https://img.shields.io/badge/OpenVINO-660099?style=for-the-badge&logo=intel&logoColor=white)
