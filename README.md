@@ -56,8 +56,12 @@ STM32, Arduino, RaspberryPi를 이용한 디스펜서 개발 프로젝트
 <br><br>
 
 **[과적 및 적재불량 차량 탐지]([https://github.com/GyeongTae/IoT_SmartHome](https://github.com/bbangx2/MLOps_mini_project.git))**
-Raspberry Pi를 이용한 스마트 홈 제어 시스템 개발 프로젝트입니다.
-**기술 스택:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+Intel Geti를 이용한 MLOps 미니 프로젝트 입니다. 적재 불량 차량을 학습하여 영상에서 탐지합니다.
+**기술 스택:** 
+<br>
+![Intel Geti](https://img.shields.io/badge/Intel%20Geti-0071C5?style=for-the-badge&logoColor=white)
+![OpenVINO](https://img.shields.io/badge/OpenVINO-660099?style=for-the-badge&logo=intel&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=amazonaws&logoColor=white)
 <br><br>
 
 </div>
