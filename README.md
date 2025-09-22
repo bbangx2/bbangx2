@@ -83,8 +83,11 @@ SURF 및 ORB 알고리즘을 이용해 이미지를 스티칭해 큰 파노라�
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![QtCreator](https://img.shields.io/badge/QtCreator-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-<br><br>
+<br><br><br>
 
+## ⚙️ Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hkt7136)](https://solved.ac/hkt7136)
+[![GyeongTae's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hkt7136)](https://solved.ac/hkt7136)
 </div>
 
 </div>
