@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/70105da9-1df4-4adb-9dee-2aea7590bc4b" />
+
 <!--
 **bbangx2/bbangx2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
