@@ -87,7 +87,7 @@ SURF 및 ORB 알고리즘을 이용해 이미지를 스티칭해 큰 파노라�
 
 ## ⚙️ Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hkt7136)](https://solved.ac/hkt7136)
-
+<br><br><br>
 
 ## 📜 Certificates
 2025.02.15 **TOIEC 940 - 한국 TOEIC 위원회**
