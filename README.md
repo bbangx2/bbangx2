@@ -3,7 +3,6 @@
 <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/70105da9-1df4-4adb-9dee-2aea7590bc4b" />
 
 
-```markdown
 ### 🛠️ Tech Stacks
 
 **Programming Languages**
@@ -29,6 +28,7 @@
 **GUI & Database**
 ![QtCreator](https://img.shields.io/badge/QtCreator-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-2D6284?style=for-the-badge&logo=python&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 
