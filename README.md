@@ -44,13 +44,16 @@
 <div align="center">
 
 **[자동 알약 디스펜서](https://github.com/bbangx2/intel_mini_project_1.git)**
--   간단한 이미지 처리 알고리즘과 GUI를 구현한 프로젝트입니다.
--   **기술 스택:** ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![QtCreator](https://img.shields.io/badge/QtCreator-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+간단한 이미지 처리 알고리즘과 GUI를 구현한 프로젝트입니다.
+**기술 스택:**
+![STM32](https://img.shields.io/badge/STM32-00366D?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![BSP](https://img.shields.io/badge/BSP-FF9900?style=for-the-badge&logoColor=white)
 <br><br>
 
-**[IoT_SmartHome](https://github.com/GyeongTae/IoT_SmartHome)**
--   Raspberry Pi를 이용한 스마트 홈 제어 시스템 개발 프로젝트입니다.
--   **기술 스택:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+**[과적 및 적재불량 차량 탐지]([https://github.com/GyeongTae/IoT_SmartHome](https://github.com/bbangx2/MLOps_mini_project.git))**
+Raspberry Pi를 이용한 스마트 홈 제어 시스템 개발 프로젝트입니다.
+**기술 스택:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 <br><br>
 
 </div>
