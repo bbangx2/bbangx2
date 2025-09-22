@@ -1,7 +1,7 @@
 
 <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/70105da9-1df4-4adb-9dee-2aea7590bc4b" />
 
-
+<div align="center">
 
 
 ## 🛠️ Tech Stacks
@@ -102,4 +102,3 @@ SURF 및 ORB 알고리즘을 이용해 이미지를 스티칭해 큰 파노라�
 - 2009.12.22 **워드프로세서 3급** - 대한상공회의소<br>
 </div>
 
-</div>
