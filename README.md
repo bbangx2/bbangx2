@@ -76,6 +76,15 @@ Intel Geti를 이용한 MLOps 미니 프로젝트 입니다. 적재 불량 차�
 ![QtCreator](https://img.shields.io/badge/QtCreator-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 <br><br>
 
+**[파노라마 이미지 합성 프로그램](https://github.com/SulfurCamp/Intel_OpenCV_Project_Team2.git)**
+<br>
+SURF 및 ORB 알고리즘을 이용해 이미지를 스티칭해 큰 파노라마 이미지를 합성해줍니다.
+<br>
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![QtCreator](https://img.shields.io/badge/QtCreator-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+<br><br>
+
 </div>
 
 </div>
