@@ -111,6 +111,7 @@ SURF 및 ORB 알고리즘을 이용해 이미지를 스티칭해 큰 파노라�
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:hkt7136@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hkt7136@gmail.com"> </a>
+        hkt7136@gmail.com
           </div>  <br> 
     </div>
     
