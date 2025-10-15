@@ -83,6 +83,21 @@ SURF 및 ORB 알고리즘을 이용해 이미지를 스티칭해 큰 파노라�
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![QtCreator](https://img.shields.io/badge/QtCreator-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+<br><br>
+
+**[터틀봇과 로봇팔을 이용한 스마트팜 (프로젝트 진행중)]([https://github.com/SulfurCamp/Intel_OpenCV_Project_Team2.git](https://github.com/KINGMINWOO/INTEL_AI_SW_LAST_PROJECT.git))**
+<br>
+터틀봇과 로봇팔을 이용해 익은 토마토/썩은 토마토를 자동으로 판별 후 수확해줍니다.
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-00366D?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![QtCreator](https://img.shields.io/badge/QtCreator-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logo=ultralytics&logoColor=white)
+
 <br><br><br>
 
 ## ⚙️ Algorithm
