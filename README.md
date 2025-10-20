@@ -22,7 +22,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![BSP](https://img.shields.io/badge/BSP-FF9900?style=for-the-badge&logoColor=white)
 ![Yocto](https://img.shields.io/badge/Yocto-0077B6?style=for-the-badge&logo=yocto&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS%202-22314E?logo=ros&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
 <br><br>
 
 **🧠 AI/ML & Vision 👁️**
