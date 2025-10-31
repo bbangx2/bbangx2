@@ -86,7 +86,7 @@ SURF 및 ORB 알고리즘을 이용해 이미지를 스티칭해 큰 파노라�
 ![QtCreator](https://img.shields.io/badge/QtCreator-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 <br><br>
 
-**[터틀봇과 로봇팔을 이용한 스마트팜 (프로젝트 진행중)](https://github.com/KINGMINWOO/INTEL_AI_SW_LAST_PROJECT.git)**
+**[터틀봇과 로봇팔을 이용한 스마트팜](https://github.com/KINGMINWOO/INTEL_AI_SW_LAST_PROJECT.git)**
 <br>
 터틀봇과 로봇팔을 이용해 익은 토마토/썩은 토마토를 자동으로 판별 후 수확해줍니다.
 <br>
